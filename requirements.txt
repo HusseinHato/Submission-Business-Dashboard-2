@@ -1,2 +1,7 @@
 joblib
 sklearn
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
